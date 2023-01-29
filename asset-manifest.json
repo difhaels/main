@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/main/static/css/main.241de7c8.css",
-    "main.js": "/main/static/js/main.b4cbf1fb.js",
-    "static/js/787.7e41c1a6.chunk.js": "/main/static/js/787.7e41c1a6.chunk.js",
+    "main.css": "/main/static/css/main.94e90785.css",
+    "main.js": "/main/static/js/main.120d2994.js",
     "static/media/Hina.png": "/main/static/media/Hina.ddab7394312074b2b008.png",
     "static/media/Aru.jpeg": "/main/static/media/Aru.645263d56f6d512788fa.jpeg",
     "static/media/Agung.jpg": "/main/static/media/Agung.a7ed166959cd082416cd.jpg",
@@ -10,12 +9,11 @@
     "static/media/DX-logo-3.png": "/main/static/media/DX-logo-3.3ca3d8f14ecd9c787064.png",
     "static/media/DX-logo-1.png": "/main/static/media/DX-logo-1.df4a4b33936cefad578d.png",
     "index.html": "/main/index.html",
-    "main.241de7c8.css.map": "/main/static/css/main.241de7c8.css.map",
-    "main.b4cbf1fb.js.map": "/main/static/js/main.b4cbf1fb.js.map",
-    "787.7e41c1a6.chunk.js.map": "/main/static/js/787.7e41c1a6.chunk.js.map"
+    "main.94e90785.css.map": "/main/static/css/main.94e90785.css.map",
+    "main.120d2994.js.map": "/main/static/js/main.120d2994.js.map"
   },
   "entrypoints": [
-    "static/css/main.241de7c8.css",
-    "static/js/main.b4cbf1fb.js"
+    "static/css/main.94e90785.css",
+    "static/js/main.120d2994.js"
   ]
 }
